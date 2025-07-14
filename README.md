@@ -34,6 +34,7 @@ northwind_sql_analysis/
 ├── README.md
 ├── insight_summary.md
 ├── northwind_analysis.sql
+├── ERD.png
 ```
 
 ---
